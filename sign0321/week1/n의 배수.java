@@ -4,4 +4,16 @@
  */
 public static void main(String[]args){
 
+public int solution(int num,int n){
+        int share=num%n;
+        if(share==0){
+        return 1;
+        }else{
+        return 0;
         }
+        }
+        }
+
+
+
+        
